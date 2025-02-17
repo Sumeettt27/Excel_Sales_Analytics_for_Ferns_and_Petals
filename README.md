@@ -2,7 +2,6 @@
 
 Data analysis of Ferns and Petals using Excel
 
-<br/>
 <div style="text-align: center;">
     <img src="https://github.com/Sumeettt27/Excel_Sales_Analytics_for_Ferns_and_Petals/blob/main/Dashboard.png" alt="sales analytics of FnP" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
 </div>
