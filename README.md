@@ -15,6 +15,7 @@ Data analysis of Ferns and Petals using Excel
 <ul style="margin: 50px; padding: 0px;">
     <li><strong>Data:</strong> Collected from an online source</li>
     <li><strong>Tools Used:</strong> Excel</li>
+    <li><strong>Skills:</strong> Advanced Excel, Power Query, Data Visualization</li>
     <li><strong>Focus Areas:</strong> Revenue trends, product performance, customer behavior</li>
 </ul>
 
