@@ -2,6 +2,7 @@
 
 Data analysis of Ferns and Petals using Excel
 
+<br/>
 <div style="text-align: center;">
     <img src="https://github.com/Sumeettt27/Excel_Sales_Analytics_for_Ferns_and_Petals/blob/main/Dashboard.png" alt="sales analytics of FnP" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
 </div>
@@ -9,16 +10,24 @@ Data analysis of Ferns and Petals using Excel
 
 Overview:
 This project analyzes sales data sourced from an online dataset to gain insights into revenue trends, product performance, and customer purchasing behavior. The dashboard visualizes key metrics to identify business opportunities and areas for improvement.
+
 Data Source & Tools Used:
-•	Data: Collected from an online source
-•	Tools Used: Excel
-•	Focus Areas: Revenue trends, product performance, customer behavior
+
+<ul style="margin: 50px; padding: 0px;">
+    <li><strong>Data:</strong> Collected from an online source</li>
+    <li><strong>Tools Used:</strong> Excel</li>
+    <li><strong>Focus Areas:</strong> Revenue trends, product performance, customer behavior</li>
+</ul>
+
 Key Metrics:
-•	Total Orders: 1,000
-•	Total Revenue: ₹3,520,984.00
-•	Average Order to Delivery Time: 5.53 days
-•	Average Customer Spend: ₹3,520.98
-•	Correlation Between Order Quantity & Delivery Time: 0.0035 (No significant relationship)
+
+<ul style="margin: 50px; padding: 0px;">
+    <li><strong>Total Orders:</strong> 1,000</li>
+    <li><strong>Total Revenue:</strong> ₹3,520,984.00</li>
+    <li><strong>Average Order to Delivery Time:</strong> 5.53 days</li>
+    <li><strong>Average Customer Spend:</strong> ₹3,520.98</li>
+    <li><strong>Correlation Between Order Quantity & Delivery Time:</strong> 0.0035 (No significant relationship)</li>
+</ul>
 
 Analysis & Insights
 Revenue Trends:
