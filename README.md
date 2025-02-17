@@ -30,26 +30,45 @@ Key Metrics:
 </ul>
 
 Analysis & Insights
+
 Revenue Trends:
-•	Anniversaries and Raksha Bandhan contribute the highest revenue.
-•	Diwali and Valentine’s Day show lower revenue, indicating potential for improved marketing strategies.
-•	Revenue peaks in February and August, likely due to seasonal events.
+
+<ul style="margin: 50px; padding: 0px;">
+    <li>Anniversaries and Raksha Bandhan contribute the highest revenue.</li>
+    <li>Diwali and Valentine’s Day show lower revenue, indicating potential for improved marketing strategies.</li>
+    <li>Revenue peaks in February and August, likely due to seasonal events.</li>
+</ul>
+
 Product Performance:
-•	Colors, Soft Toys, and Sweets generate the most revenue.
-•	Mugs and Plants have lower sales, suggesting potential areas for improvement.
-•	Top-selling products: Magnam Set, Quia Gift, and Dolores Gift, showing customer preference for gift sets.
+
+<ul style="margin: 50px; padding: 0px;">
+    <li>Colors, Soft Toys, and Sweets generate the most revenue.</li>
+    <li>Mugs and Plants have lower sales, suggesting potential areas for improvement.</li>
+    <li>Top-selling products: Magnam Set, Quia Gift, and Dolores Gift, showing customer preference for gift sets.</li>
+</ul>
 
 Customer Behavior:
-•	Peak purchase hours are between 6-8 AM and around 8 PM.
-•	Cities like Dibrugarh, Imphal, and Kavai have the highest number of orders.
-•	No correlation between order quantity and delivery time, meaning delivery efficiency doesn’t impact sales volume.
+
+<ul style="margin: 50px; padding: 0px;">
+    <li>Peak purchase hours are between 6-8 AM and around 8 PM.</li>
+    <li>Cities like Dibrugarh, Imphal, and Kavai have the highest number of orders.</li>
+    <li>No correlation between order quantity and delivery time, meaning delivery efficiency doesn’t impact sales volume.</li>
+</ul>
+
 Challenges & Learnings:
-•	Data Cleaning: Used Power Query to clean and organize data for better analysis.
-•	Star Schema Modeling: Structured the data using a Star Schema to simplify relationships and improve efficiency.
-•	Clear Visuals: Used simple and effective charts to make the data easy to understand.
+
+<ul style="margin: 50px; padding: 0px;">
+    <li><strong>Data Cleaning:</strong> Used Power Query to clean and organize data for better analysis.</li>
+    <li><strong>Star Schema Modeling:</strong> Structured the data using a Star Schema to simplify relationships and improve efficiency.</li>
+    <li><strong>Clear Visuals:</strong> Used simple and effective charts to make the data easy to understand.</li>
+</ul>
+
 Key Insights:
-•	Marketing Opportunities: Diwali and Valentine’s Day show lower revenue, indicating potential for improved promotional efforts.
-•	Product Performance: Mugs and Plants generate less revenue compared to other categories, suggesting lower customer demand.
-•	Customer Behavior: Peak purchase hours are 6-8 AM and around 8 PM, which can inform engagement strategies.
-•	Regional Trends: Cities like Dibrugarh and Imphal see the highest number of orders, highlighting strong market presence.
-•	Delivery Insights: No significant correlation between order quantity and delivery time, suggesting that faster deliveries do not necessarily drive more sales.
+
+<ul style="margin: 50px; padding: 0px;">
+    <li><strong>Marketing Opportunities:</strong> Diwali and Valentine’s Day show lower revenue, indicating potential for improved promotional efforts.</li>
+    <li><strong>Product Performance:</strong> Mugs and Plants generate less revenue compared to other categories, suggesting lower customer demand.</li>
+    <li><strong>Customer Behavior:</strong> Peak purchase hours are 6-8 AM and around 8 PM, which can inform engagement strategies.</li>
+    <li><strong>Regional Trends:</strong> Cities like Dibrugarh and Imphal see the highest number of orders, highlighting strong market presence.</li>
+    <li><strong>Delivery Insights:</strong> No significant correlation between order quantity and delivery time, suggesting that faster deliveries do not necessarily drive more sales.</li>
+</ul>
